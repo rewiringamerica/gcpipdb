@@ -1,0 +1,11 @@
+.vscode
+.venv
+
+# Compile python
+*.pyc
+
+# Backup files.
+*~
+
+# Distribution directory
+dist
